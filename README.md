@@ -6,3 +6,7 @@ Git is really fun except it's not when it breaks or you're learning
 
 ## A picture
 ![kittypicture](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
+
+
+###But what is your favorite ice cream? 
+Mine is double-chocolate brownie 
